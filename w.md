@@ -1,2 +1,0 @@
-# speech
-practice in SR
