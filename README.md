@@ -1,2 +1,2 @@
 # speech
-practice in SR
+explore MFCC
